@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eb111ab-fff4-4e93-9e26-03a0a79840c1" name="Default" comment="提交代码">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/0.574c791f3da2aa65d337.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/0.a3f0f0490d43c8ba3fbc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/1.d973cbc0eb8bc85e9f7c.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/10.042376ba2c495689bf0d.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/10.872747b197c3e771f00f.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/11.563823a9169746dfbe37.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/11.cca8a3e49c52d4eb5f3a.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/12.4ece07bd130aaf01d175.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/12.cfea08f420c4dfe34187.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/13.0d4423a81bbd715feec1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/13.b49b03dd602ce914c24d.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/14.0748ddc3497dd54a5e37.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/14.284390f0b68f19ac0c52.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/15.9fc8eff5120e20230c20.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/15.d408fc1cfc134f4034a5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/2.921ce6559125175ac682.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/2.e9cff80b5f7413367c24.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/3.0c15eb6564e8eb3c2cda.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/3.4704290389e3f494379a.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/4.8d5a35af53b721d863a4.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/4.a43bb11e74ed8e549ae4.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/5.8bb53219a8d51e51a7fb.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/5.e2736f945e6fb4d90339.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/6.695bbd10faa0c9eefe23.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/6.984f1c724e8016a8aea5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/7.676df61427b67d774d72.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/7.dcb18538a20cb9ba9883.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/8.27c7df4255ace3ef7500.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/8.6152fa7567cf9a349e73.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/9.7d320e7de24ff2e344d2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/9.8f53d35cc339749af624.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/app.5f278ad454a329a76647.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/app.c8a665ede896920c10eb.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/iconfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/bg2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/editor/fonts/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/common.5f278ad454a329a76647.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/common.c8a665ede896920c10eb.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/element-icons.2fad952.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/element-icons.6f0a763.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/icomoon.0a74426.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/icomoon.7d4ac7d.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/icomoon.9f5fd7b.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/icomoon.f558046.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/iconfont.9e90849.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/iconfont.b744ee2.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/iconfont.c566b52.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/iconfont.ec4e63e.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/libs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/server/logs/log4js.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/server/logs/logs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/server/page/500.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/server/server.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/server/template/template.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/vue-ssr-client-manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/vue-ssr-server-bundle.json" afterPath="" />
-    </list>
+    <list default="true" id="0eb111ab-fff4-4e93-9e26-03a0a79840c1" name="Default" comment="提交代码" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -173,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526828238532</updated>
-      <workItem from="1526881067488" duration="1527000" />
+      <workItem from="1526881067488" duration="1577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1527000" />
+    <option name="totallyTimeSpent" value="1577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="350" y="23" width="1440" height="821" extended-state="0" />
