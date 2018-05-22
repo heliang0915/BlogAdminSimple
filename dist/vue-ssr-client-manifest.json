@@ -7,13 +7,13 @@
     "fonts/iconfont.c566b52.woff",
     "fonts/iconfont.9e90849.ttf",
     "fonts/iconfont.b744ee2.svg",
-    "assets/fonts/iconfont.svg",
+    "assets/fonts/iconfont.47e3479.svg",
     "fonts/icomoon.0a74426.eot",
     "fonts/icomoon.9f5fd7b.ttf",
     "fonts/icomoon.7d4ac7d.woff",
     "fonts/icomoon.f558046.svg",
-    "assets/js/editor/fonts/icomoon.svg",
-    "assets/images/bg2.jpg",
+    "assets/js/editor/fonts/icomoon.28afe64.svg",
+    "assets/images/bg2.817d1eb.jpg",
     "0.a3f0f0490d43c8ba3fbc.js",
     "1.d973cbc0eb8bc85e9f7c.js",
     "2.e9cff80b5f7413367c24.js",
@@ -28,14 +28,14 @@
     "11.cca8a3e49c52d4eb5f3a.js",
     "12.cfea08f420c4dfe34187.js",
     "13.0d4423a81bbd715feec1.js",
-    "14.0748ddc3497dd54a5e37.js",
+    "14.5bba5ec74b31fd96ca0a.js",
     "15.9fc8eff5120e20230c20.js",
     "app.a0fbe853d54d77889410.js",
-    "libs.js?b60c425187810273c123",
+    "libs.js?456e5f11185447aa34a0",
     "common.a0fbe853d54d77889410.css"
   ],
   "initial": [
-    "libs.js?b60c425187810273c123",
+    "libs.js?456e5f11185447aa34a0",
     "app.a0fbe853d54d77889410.js"
   ],
   "async": [
@@ -53,7 +53,7 @@
     "11.cca8a3e49c52d4eb5f3a.js",
     "12.cfea08f420c4dfe34187.js",
     "13.0d4423a81bbd715feec1.js",
-    "14.0748ddc3497dd54a5e37.js",
+    "14.5bba5ec74b31fd96ca0a.js",
     "15.9fc8eff5120e20230c20.js"
   ],
   "modules": {
@@ -2159,7 +2159,7 @@
       27,
       12
     ],
-    "c146023e": [
+    "156a78c0": [
       27,
       12
     ],
