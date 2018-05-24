@@ -1,7 +1,7 @@
 {
   "publicPath": "/dist/",
   "all": [
-    "3.63879dbdb845c0d73139.js",
+    "3.150aac6cb1c333c97194.js",
     "fonts/element-icons.2fad952.woff",
     "fonts/iconfont.ec4e63e.eot",
     "fonts/iconfont.c566b52.woff",
@@ -14,52 +14,49 @@
     "fonts/icomoon.f558046.svg",
     "assets/js/editor/fonts/icomoon.28afe64.svg",
     "assets/images/bg2.d5fcbc8.jpg",
-    "0.f65ecc17ef751cc2552d.js",
-    "1.cbe29c6ff3619b7f7381.js",
-    "2.b56a1d443db8b3e17b60.js",
+    "0.944b582d8199bd5023dd.js",
+    "1.3bc15491363e8a686318.js",
+    "2.c74d6c206861be6f59f1.js",
     "fonts/element-icons.6f0a763.ttf",
-    "4.e60fb302b2bf6cd7d359.js",
-    "5.6b9041d3edfb250d36d6.js",
-    "6.f08cc74ff8468396bf3b.js",
-    "7.1e2d212bf2f65358028c.js",
-    "8.b8ec0b27285227ea7703.js",
-    "9.ef51193c2db1632f0b65.js",
-    "10.5e479306d2efb390476c.js",
-    "11.45ed014fcf5b85f2c394.js",
-    "12.9f267594b6ee959e2e7e.js",
-    "13.a53d2456504fbfd36f58.js",
-    "14.577d116000cca718967f.js",
-    "15.9fc8eff5120e20230c20.js",
-    "app.0e53a24db3a3767be83f.js",
-    "libs.js?869d21a0cd3cd70bfd1e",
-    "common.0e53a24db3a3767be83f.css"
+    "4.d4cc9006ecbd90471e92.js",
+    "5.a6871a16babc4f124b1a.js",
+    "6.7c0ef4110bb73e64a6a9.js",
+    "7.a489331e0299a25d8159.js",
+    "8.0fe4c499f8984caec53c.js",
+    "9.2be29fb22199b683a787.js",
+    "10.bf5a6d8d2e446a18a203.js",
+    "11.d3b9b8c6488d8dbfabb4.js",
+    "12.7be38ef140bce6fdcb7d.js",
+    "13.53897b3968654786e14a.js",
+    "14.295842a492f70eb3e8bb.js",
+    "15.5de0013b1fa930dc3793.js",
+    "app.068453b6e4a04cb1cb97.js",
+    "libs.js?b54b802c45ae84327483",
+    "common.068453b6e4a04cb1cb97.css"
   ],
   "initial": [
-    "libs.js?869d21a0cd3cd70bfd1e",
-    "app.0e53a24db3a3767be83f.js"
+    "libs.js?b54b802c45ae84327483",
+    "app.068453b6e4a04cb1cb97.js"
   ],
   "async": [
-    "3.63879dbdb845c0d73139.js",
-    "0.f65ecc17ef751cc2552d.js",
-    "1.cbe29c6ff3619b7f7381.js",
-    "2.b56a1d443db8b3e17b60.js",
-    "4.e60fb302b2bf6cd7d359.js",
-    "5.6b9041d3edfb250d36d6.js",
-    "6.f08cc74ff8468396bf3b.js",
-    "7.1e2d212bf2f65358028c.js",
-    "8.b8ec0b27285227ea7703.js",
-    "9.ef51193c2db1632f0b65.js",
-    "10.5e479306d2efb390476c.js",
-    "11.45ed014fcf5b85f2c394.js",
-    "12.9f267594b6ee959e2e7e.js",
-    "13.a53d2456504fbfd36f58.js",
-    "14.577d116000cca718967f.js",
-    "15.9fc8eff5120e20230c20.js"
+    "3.150aac6cb1c333c97194.js",
+    "0.944b582d8199bd5023dd.js",
+    "1.3bc15491363e8a686318.js",
+    "2.c74d6c206861be6f59f1.js",
+    "4.d4cc9006ecbd90471e92.js",
+    "5.a6871a16babc4f124b1a.js",
+    "6.7c0ef4110bb73e64a6a9.js",
+    "7.a489331e0299a25d8159.js",
+    "8.0fe4c499f8984caec53c.js",
+    "9.2be29fb22199b683a787.js",
+    "10.bf5a6d8d2e446a18a203.js",
+    "11.d3b9b8c6488d8dbfabb4.js",
+    "12.7be38ef140bce6fdcb7d.js",
+    "13.53897b3968654786e14a.js",
+    "14.295842a492f70eb3e8bb.js",
+    "15.5de0013b1fa930dc3793.js"
   ],
   "modules": {
-    "15701083": [
-      15
-    ],
     "16323554": [
       29,
       31
@@ -716,8 +713,16 @@
       29,
       31
     ],
+    "02d5f836": [
+      29,
+      31
+    ],
     "d4a630a8": [
       30
+    ],
+    "2b54158a": [
+      29,
+      31
     ],
     "4fc1c498": [
       29,
@@ -1012,7 +1017,7 @@
       29,
       31
     ],
-    "3369b7e8": [
+    "0eeb1cad": [
       29,
       31
     ],
@@ -1020,15 +1025,11 @@
       29,
       31
     ],
-    "7f5e54b4": [
+    "52e8d1cf": [
       29,
       31
     ],
     "1681b847": [
-      29,
-      31
-    ],
-    "02d5f836": [
       29,
       31
     ],
@@ -1044,7 +1045,7 @@
       29,
       31
     ],
-    "70b6685f": [
+    "1137753c": [
       29,
       31
     ],
@@ -2103,10 +2104,13 @@
     "1d1e5838": [
       26
     ],
-    "c72ade78": [
+    "399add67": [
       15
     ],
-    "0245567e": [
+    "9abf45b4": [
+      15
+    ],
+    "bfdb220a": [
       15
     ],
     "7c744efc": [
