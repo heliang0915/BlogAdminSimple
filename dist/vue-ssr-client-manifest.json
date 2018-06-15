@@ -1,7 +1,7 @@
 {
   "publicPath": "/dist/",
   "all": [
-    "3.842ba39707735fd70eda.js",
+    "3.e4527b841c17cf6f2e05.js",
     "fonts/element-icons.2fad952.woff",
     "fonts/iconfont.ec4e63e.eot",
     "fonts/iconfont.c566b52.woff",
@@ -16,7 +16,7 @@
     "assets/images/bg2.d5fcbc8.jpg",
     "0.a776af946f865c9330fd.js",
     "1.56a16989f1e4491cc2a3.js",
-    "2.dfbdecfd5dd83453665f.js",
+    "2.3b30bcd0c1688107a111.js",
     "fonts/element-icons.6f0a763.ttf",
     "4.93786ddd8f90676e6e5a.js",
     "5.454d429ce0712245099b.js",
@@ -31,18 +31,18 @@
     "14.47ad96539198998b1514.js",
     "15.59788ef40cec48b0ae1b.js",
     "app.49011471eac51888f09a.js",
-    "libs.js?4b0ef375462ad5ff1182",
+    "libs.js?9e266537283b173011d0",
     "common.49011471eac51888f09a.css"
   ],
   "initial": [
-    "libs.js?4b0ef375462ad5ff1182",
+    "libs.js?9e266537283b173011d0",
     "app.49011471eac51888f09a.js"
   ],
   "async": [
-    "3.842ba39707735fd70eda.js",
+    "3.e4527b841c17cf6f2e05.js",
     "0.a776af946f865c9330fd.js",
     "1.56a16989f1e4491cc2a3.js",
-    "2.dfbdecfd5dd83453665f.js",
+    "2.3b30bcd0c1688107a111.js",
     "4.93786ddd8f90676e6e5a.js",
     "5.454d429ce0712245099b.js",
     "6.6caef109c39f5ff0cb5a.js",
@@ -2108,19 +2108,19 @@
     "92e1afa4": [
       26
     ],
-    "5b85a06c": [
+    "1abb2284": [
       15
     ],
-    "56e9bfaa": [
+    "d87ebb7a": [
       15
     ],
-    "59d63454": [
+    "604d6cbe": [
       15
     ],
     "7c744efc": [
       17
     ],
-    "6f1cc68c": [
+    "2a6b4eca": [
       0
     ],
     "e783ea3c": [
