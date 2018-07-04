@@ -3,7 +3,7 @@
  */
 {
   "name"             : "BlogAdmin",
-  "script"           : "bin/www",
+  "script"           : "dist/server/server.js",
   "log_date_format"  : "YYYY-MM-DD HH:mm:ss Z",
   "error_file"       : "pm2/logs/error.log",
   "out_file"         : "pm2/logs/access.log",
