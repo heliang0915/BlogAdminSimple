@@ -9,7 +9,7 @@
   "out_file"         : "pm2/logs/access.log",
   "pid_file"         : "pm2/pids/blogAPI.pid",
   "instances"        : 1,
-  "max_memory_restart": "50M",
+  "max_memory_restart": "100M",
   "watch"            : false,
   "ignore_watch"      : ["[\\/\\\\]\\./", "node_modules"],
   "merge_logs"       : true,
