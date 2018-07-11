@@ -30,13 +30,13 @@
     "13.3f33415989e47730d7bf.js",
     "14.47ad96539198998b1514.js",
     "15.59788ef40cec48b0ae1b.js",
-    "app.2bdab452305074fcc2f1.js",
-    "libs.js?f961063ac750e356aa18",
-    "common.2bdab452305074fcc2f1.css"
+    "app.1311a8c4ab1c31e83b15.js",
+    "libs.js?e819b43fbaf6a4451269",
+    "common.1311a8c4ab1c31e83b15.css"
   ],
   "initial": [
-    "libs.js?f961063ac750e356aa18",
-    "app.2bdab452305074fcc2f1.js"
+    "libs.js?e819b43fbaf6a4451269",
+    "app.1311a8c4ab1c31e83b15.js"
   ],
   "async": [
     "3.7e1ab6b0294975b35839.js",
